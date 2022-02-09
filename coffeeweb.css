@@ -1,0 +1,498 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Moon+Dance&family=Nunito+Sans:ital,wght@1,300&family=Playfair+Display:ital@1&family=Pushster&family=Rock+3D&display=swap');
+body{
+    background-image: url(./images/coffeetheme.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    background-repeat: no-repeat;
+}
+.row{
+    width: 75%;
+    height: 2590px;
+    border: #fffaf045 1px solid;
+    display: flex;
+    position: relative;
+}
+.col-1{
+width: 100%;
+height: 130px;
+background-color: #583f2938;
+/* position: sticky; */
+top: 10px;
+border: #fffaf045 1px solid;
+
+}
+.dine{
+    position: absolute;
+    top: 25px;
+    font-family: 'Alfa Slab One', curs;
+    font-size: 50px; 
+    left: 422px;
+    color: wheat;
+}
+.cafe{
+    position: absolute;
+    top: -25px;
+    font-family: 'Alfa Slab One', curs;
+    font-size: 50px; 
+    left: 345px;
+    color: wheat;
+}
+h2{
+    position: absolute;
+    top: 30px;
+    color: wheat;
+}
+h3{
+    color: wheat;
+    font-family: cursive;
+}
+.ing{
+    position: absolute;
+    top: 320px;
+    left: 95px;
+    color: chocolate;
+}
+.pri{
+    position: absolute;
+    top: 340px;
+    left: 137px;
+    color: chocolate;
+}
+.ing-1{
+    position: absolute;
+    top: 650px;
+    left: 95px;
+    color: chocolate;
+}
+.pri-1{
+    position: absolute;
+    top: 670px;
+    left: 137px;
+    color: chocolate;
+}
+.ing-2{
+    position: absolute;
+    top: 964px;
+    left: 95px;
+    color: chocolate;
+}
+.pri-2{
+    position: absolute;
+    top: 984px;
+    left: 137px;
+    color: chocolate;
+}
+.ing-3{
+    position: absolute;
+    top: 320px;
+    left: 596px;
+    color: chocolate;
+}
+.pri-3{
+    position: absolute;
+    top: 340px;
+    left: 638px;
+    color: chocolate;
+}
+.ing-4{
+    position: absolute;
+    top: 650px;
+    left: 596px;
+    color: chocolate;
+}
+.pri-4{
+    position: absolute;
+    top: 670px;
+    left: 638px;
+    color: chocolate;
+}
+.ing-5{
+    position: absolute;
+    top: 964px;
+    left: 596px;
+    color: chocolate;
+}
+.pri-5{
+    position: absolute;
+    top: 984px;
+    left: 638px;
+    color: chocolate;
+}
+.input-1{
+    position: absolute;
+    top: 55px;
+    left: 21%;
+    width: 40%;
+    height: 30px;
+    border: black 1px solid;
+    border-radius: 6px;
+    background-color: #583f2938;
+    font-family: 'Alfa Slab One', curs;
+}
+.input-2{
+    position: absolute;
+    top: 100px;
+    left: 21%;
+    width: 40%;
+    height: 30px;
+    border: black 1px solid;
+    border-radius: 6px;
+    background-color: #583f2938;
+    font-family: 'Alfa Slab One', curs;
+}
+.input-3{
+    position: absolute;
+    top: 145px;
+    left: 21%;
+    border: black 1px solid;
+    border-radius: 6px;
+    background-color: #583f2938;
+    font-family: 'Alfa Slab One', curs;
+}
+.h-1{
+    position: absolute;
+    top: 40px;
+    left: 35%;
+}
+.h-2{
+    position: absolute;
+    top: 390px;
+    left: 35%;
+}
+.h-3{
+    position: absolute;
+    top: 704px;
+    left: 35%;
+}
+.h-4{
+ position: absolute;
+ top: -12px;
+ left: 81%;  
+ font-family: 'Alfa Slab One', curs;
+}
+.h-5{
+    position: absolute;
+ top: -12px;  
+ left: 5px;
+ font-family: 'Alfa Slab One', curs;
+}
+.h-6{
+   position: absolute;
+   left: 42%;
+   font-family: 'Alfa Slab One', curs;
+top: -12px;
+}
+.h-7{
+    position: absolute;
+    color: wheat;
+    font-family: 'Alfa Slab One', curs;
+left: 10px;
+top: 35px; 
+} 
+.h-8{
+        position: absolute;
+        color: wheat;
+        font-family: 'Alfa Slab One', curs;
+    left: 10px;
+    top: 80px;
+}
+.h-9{
+    position: absolute;
+    color: wheat;
+    font-family: 'Alfa Slab One', curs;
+left: 10px;
+top: 125px; 
+}
+.h-10{
+    position: absolute;
+    top: -12px;
+    left: 35%;  
+    font-family: 'Alfa Slab One', curs; 
+}
+.h-11{
+    position: absolute;
+    top: 40px;
+    left: 14.5%;
+}
+.h-12{
+    position: absolute;
+    top: 40px;
+    left: 63.5%;
+}
+.h-13{
+    position: absolute;
+    top: 370px;
+    left: 14.5%; 
+}
+.h-14{
+    position: absolute;
+    top: 370px;
+    left: 63.5%;
+}
+.h-15{
+    position: absolute;
+    top: 704px;
+    left: 14.5%;
+}
+.h-16{
+    position: absolute;
+    top: 704px;
+    left: 63.5%;
+}
+.ab{
+left: 680px;
+font-family: 'Alfa Slab One', curs;
+}
+.cd{
+left: 780px;
+font-family: 'Alfa Slab One', curs;
+}
+.ef{
+left: 880px;
+font-family: 'Alfa Slab One', curs;
+}
+.col-2{
+    position: absolute;
+    width: 50%;
+    height: 1040px;
+    background-color: #583f2938;
+    top: 130px;
+    border: #fffaf045 1px solid;
+    border-right-style: hidden;
+}
+.col-3{
+    position: absolute;
+    width: 50%;
+    height: 1040px;
+    background-color: #583f2938;
+    top: 130px;
+    left: 50%;
+    border: #fffaf045 1px solid;
+    border-left-style: hidden;
+}
+.col-4{
+    position: absolute;
+    width: 100%;
+    height: 380px;
+    top: 2210px;
+    background-color: #583f2938;
+    border: #fffaf045 1px solid;
+}
+.col-5{
+    position: absolute;
+    width: 100%;
+    height: 1040px;
+    background-color: #583f2938;
+    top: 1170px;
+    border: #fffaf045 1px solid;
+}
+.img-1{
+    position: absolute;
+    width: 25%;
+    height: 130px;
+    border: 1px #fffaf045 solid;
+    border-radius: 0px;
+}
+.img-2{
+    position: absolute;
+    width: 90%;
+    height: 180px;
+    left: 10px;
+    top: 95px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-3{
+    position: absolute;
+    width: 90%;
+    height: 180px;
+    left: 10px;
+    top: 445px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-4{
+    position: absolute;
+    width: 90%;
+    height: 180px;
+    left: 10px;
+    top: 759px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-5{
+    position: absolute;
+    width: 45%;
+    height: 180px;
+    left: 10px;
+    top: 95px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-6{
+    position: absolute;
+    width: 45%;
+    height: 180px;
+    left: 510px;
+    top: 95px; 
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-7{
+    position: absolute;
+    width: 45%;
+    height: 180px;
+    left: 10px;
+    top: 425px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-8{
+    position: absolute;
+    width: 45%;
+    height: 180px;
+    left: 510px;
+    top: 425px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-9{
+    position: absolute;
+    width: 45%;
+    height: 180px;
+    left: 10px;
+    top: 759px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+.img-10{
+    position: absolute;
+    width: 45%;
+    height: 180px;
+    left: 510px;
+    top: 759px;
+    border: 1px #fffaf045 solid;
+    border-radius: 25px;
+}
+p{
+    color: floralwhite;
+}
+.p-1{
+    position: absolute;
+    top: 266px;
+    left: 10px;
+}
+.p-2{
+    position: absolute;
+    top: 615px;
+    left: 10px;
+}
+.p-3{
+    position: absolute;
+    top: 929px;
+    left: 10px;
+}
+.p-4{
+    position: absolute;
+    top: 266px;
+    left: 510px;
+}
+.p-5{
+    position: absolute;
+    top: 560px;
+    left: 510px;
+}
+.p-6{
+    position: absolute;
+    top: 929px;
+    left: 510px;
+}
+.p-7{
+    position: absolute;
+    top: 596px;
+    left: 10px;
+}
+.p-8{
+    position: absolute;
+    top: 596px;
+    left: 510px;
+}
+.p-9{
+    position: absolute;
+    top: 324px;
+    left: 185px;
+}
+.p-10{
+    position: absolute;
+    top: 344px;
+    left: 185px;
+}
+.p-11{
+    position: absolute;
+    top: 654px;
+    left: 185px;
+}
+.p-12{
+    position: absolute;
+    top: 674px;
+    left: 185px;
+}
+.p-13{
+    position: absolute;
+    top: 968px;
+    left: 185px;
+}
+.p-14{
+    position: absolute;
+    top: 988px;
+    left: 185px;
+}
+.p-15{
+    position: absolute;
+    top: 929px;
+    left: 10px;
+}
+.p-16{
+    position: absolute;
+    top: 324px;
+    left: 686px;
+}
+.p-17{
+    position: absolute;
+    top: 344px;
+    left: 686px;
+}
+.p-18{
+    position: absolute;
+    top: 654px;
+    left: 686px;
+}
+.p-19{
+    position: absolute;
+    top: 674px;
+    left: 686px;
+}
+.p-20{
+    position: absolute;
+    top: 968px;
+    left: 686px;
+}
+.p-21{
+    position: absolute;
+    top: 988px;
+    left: 686px;
+}
+
+button{
+    position: absolute;
+    top: 275px;
+    width: 20%;
+    left: 21%;
+    height: 30px;
+    background-color: #583f2938;
+    font-family: 'Alfa Slab One', curs;
+    color: wheat;
+    border: black 1px solid;
+    border-radius: 6px;
+}
